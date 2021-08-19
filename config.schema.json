@@ -1,0 +1,15 @@
+{
+  "pluginAlias": "FamilyAsystAiStripPlatform",
+  "pluginType": "platform",
+  "singular": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "key": {
+        "title": "Key",
+        "type": "string",
+        "required": true
+      }
+    }
+  }
+}
